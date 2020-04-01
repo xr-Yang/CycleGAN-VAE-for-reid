@@ -1,4 +1,4 @@
-# Training CamStyle with CycleGAN and VAE
+# Training CamStyle with CycleGAN and VAE for reid task
 
 CamStyle is trained with [CycleGAN-pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
